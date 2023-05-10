@@ -13,6 +13,8 @@
 # My ignore files
 /Assets/TextMesh Pro/*
 /Assets/TextMesh Pro.meta
+/Assets/Unity.VisualScripting.Generated/*
+/Assets/Unity.VisualScripting.Generated.meta
 *.zip
 
 # MemoryCaptures can get excessive in size.
